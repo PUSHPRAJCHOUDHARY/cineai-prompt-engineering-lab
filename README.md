@@ -106,7 +106,7 @@ Every prompt-response pair was scored on:
 
 **Pushpraj Choudhary**
 - 📧 pushprajchoudhary6261880542@gmail.com
-- 🔗 [LinkedIn](#)
+- https://www.linkedin.com/in/pushpraj-choudhary/
 - 📍 Bhopal, India
 
 ---
